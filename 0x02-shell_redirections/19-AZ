@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "AccePt inPut" | tr 'Ac' 'Ze' 'ce' 'e'
+tr Ac Ze 
